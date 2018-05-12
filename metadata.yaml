@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5640
     wikipedia: http://en.wikipedia.org/wiki/Dallas_Lore_Sharp
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42199#Winter
 gutenberg_issued: '2013-02-28'
 gutenberg_type: Text
 identifiers:
