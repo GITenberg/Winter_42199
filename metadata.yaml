@@ -1,0 +1,38 @@
+_repo: Winter_42199
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Horsfall, R. Bruce (Robert Bruce)
+    aliases:
+    - Horsfall, Robert Bruce
+    - Horsfall, Bruce
+    birthdate: 1869
+    deathdate: 1948
+    gutenberg_agent_id: '2143'
+    url: http://www.gutenberg.org/2009/agents/2143
+covers:
+- cover_type: archival
+  image_path: 42199-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sharp, Dallas Lore
+    birthdate: 1870
+    deathdate: 1929
+    gutenberg_agent_id: '5640'
+    url: http://www.gutenberg.org/2009/agents/5640
+    wikipedia: http://en.wikipedia.org/wiki/Dallas_Lore_Sharp
+description: ''
+gutenberg_issued: '2013-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42199'
+  lccn: '12015921'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Natural history -- Outdoor books'
+title: Winter
+url: http://www.gutenberg.org/ebooks/42199
